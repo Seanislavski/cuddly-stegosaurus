@@ -1,0 +1,57 @@
+/*# sourceMappingURL=main.css */
+body {
+  background-color: #21C2E0;
+  font-family: Helvetica, sans-serif;
+  margin: 0px; }
+
+.header {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid #2182F6;
+  color: fontColor; }
+
+#title {
+  color: #2182F6;
+  margin-bottom: 5px; }
+
+#subTitle {
+  color: #088B88;
+  margin-top: 0px; }
+
+#grad {
+  background: #21C2E0;
+  /* For browsers that do not support gradients */
+  background: -webkit-radial-gradient(circle, #89edff, #21c2e0);
+  /* Safari */
+  background: -o-radial-gradient(circle, #89edff, #21c2e0);
+  /* Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(circle, #89edff, #21c2e0);
+  /* Firefox 3.6 to 15 */
+  background: radial-gradient(circle, #89edff, #21c2e0);
+  /* Standard syntax */ }
+
+.main {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start; }
+
+.mainHead {
+  align-self: center;
+  padding-top: 10px; }
+
+.mainBody {
+  width: 100vw;
+  display: flex;
+  flex-flow: row wrap;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: space-around;
+  align-content: center;
+  border: 2px solid black; }
+
+.mainColumn {
+  border: 2px solid black; }
+
+/*# sourceMappingURL=main.css.map */

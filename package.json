@@ -1,0 +1,26 @@
+{
+  "name": "futuresite",
+  "version": "1.0.0",
+  "description": "A site template to start your project",
+  "main": "script.js",
+  "scripts": {
+    "test": "console.log('test');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seanislavski/sitetemplate.git"
+  },
+  "keywords": [
+    "template",
+    "starter"
+  ],
+  "author": "Sean Baldwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seanislavski/sitetemplate/issues"
+  },
+  "homepage": "https://github.com/Seanislavski/sitetemplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
